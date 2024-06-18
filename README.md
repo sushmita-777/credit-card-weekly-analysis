@@ -20,5 +20,7 @@ and include filters and slicers to allow stakeholders to customize the view base
 🔺 Feedback and Iteration: Continuously iterate on the dashboard based on user feedback and changing business requirements.
 
 By following these steps, we can develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
 ![credit-card-analysis](https://github.com/sushmita-777/credit-card-weekly-analysis/assets/149097855/2c50f0da-95a1-422c-aded-b926ec654d5e)
+
 ![credit card analysis 2](https://github.com/sushmita-777/credit-card-weekly-analysis/assets/149097855/87f5f1bb-fb58-4959-808a-f7a2f70324e4)
