@@ -1,5 +1,5 @@
 # credit-card-weekly-analysis
-Data Analysis & visualisation of Credit Card weekly usage
+Data Analysis & visualisation of Credit Card weekly usage **[POWER BI]**
 
 Developing a comprehensive credit card weekly dashboard requires careful planning and consideration of the key performance metrics and trends relevant to credit card operations. Here's a step-by-step approach to creating such a dashboard:
 
